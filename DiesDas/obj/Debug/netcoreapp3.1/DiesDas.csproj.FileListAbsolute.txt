@@ -1,0 +1,13 @@
+C:\Users\Chris\source\repos\DiesDas\bin\Debug\netcoreapp3.1\DiesDas.exe
+C:\Users\Chris\source\repos\DiesDas\bin\Debug\netcoreapp3.1\DiesDas.deps.json
+C:\Users\Chris\source\repos\DiesDas\bin\Debug\netcoreapp3.1\DiesDas.runtimeconfig.json
+C:\Users\Chris\source\repos\DiesDas\bin\Debug\netcoreapp3.1\DiesDas.runtimeconfig.dev.json
+C:\Users\Chris\source\repos\DiesDas\bin\Debug\netcoreapp3.1\DiesDas.dll
+C:\Users\Chris\source\repos\DiesDas\bin\Debug\netcoreapp3.1\DiesDas.pdb
+C:\Users\Chris\source\repos\DiesDas\obj\Debug\netcoreapp3.1\DiesDas.csprojAssemblyReference.cache
+C:\Users\Chris\source\repos\DiesDas\obj\Debug\netcoreapp3.1\DiesDas.AssemblyInfoInputs.cache
+C:\Users\Chris\source\repos\DiesDas\obj\Debug\netcoreapp3.1\DiesDas.AssemblyInfo.cs
+C:\Users\Chris\source\repos\DiesDas\obj\Debug\netcoreapp3.1\DiesDas.csproj.CoreCompileInputs.cache
+C:\Users\Chris\source\repos\DiesDas\obj\Debug\netcoreapp3.1\DiesDas.dll
+C:\Users\Chris\source\repos\DiesDas\obj\Debug\netcoreapp3.1\DiesDas.pdb
+C:\Users\Chris\source\repos\DiesDas\obj\Debug\netcoreapp3.1\DiesDas.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Chris\source\repos\weitereUebungsaufgaben\bin\Debug\netcoreapp3.1\weitereUebungsaufgaben.exe
+C:\Users\Chris\source\repos\weitereUebungsaufgaben\bin\Debug\netcoreapp3.1\weitereUebungsaufgaben.deps.json
+C:\Users\Chris\source\repos\weitereUebungsaufgaben\bin\Debug\netcoreapp3.1\weitereUebungsaufgaben.runtimeconfig.json
+C:\Users\Chris\source\repos\weitereUebungsaufgaben\bin\Debug\netcoreapp3.1\weitereUebungsaufgaben.runtimeconfig.dev.json
+C:\Users\Chris\source\repos\weitereUebungsaufgaben\bin\Debug\netcoreapp3.1\weitereUebungsaufgaben.dll
+C:\Users\Chris\source\repos\weitereUebungsaufgaben\bin\Debug\netcoreapp3.1\weitereUebungsaufgaben.pdb
+C:\Users\Chris\source\repos\weitereUebungsaufgaben\obj\Debug\netcoreapp3.1\weitereUebungsaufgaben.csprojAssemblyReference.cache
+C:\Users\Chris\source\repos\weitereUebungsaufgaben\obj\Debug\netcoreapp3.1\weitereUebungsaufgaben.AssemblyInfoInputs.cache
+C:\Users\Chris\source\repos\weitereUebungsaufgaben\obj\Debug\netcoreapp3.1\weitereUebungsaufgaben.AssemblyInfo.cs
+C:\Users\Chris\source\repos\weitereUebungsaufgaben\obj\Debug\netcoreapp3.1\weitereUebungsaufgaben.csproj.CoreCompileInputs.cache
+C:\Users\Chris\source\repos\weitereUebungsaufgaben\obj\Debug\netcoreapp3.1\weitereUebungsaufgaben.dll
+C:\Users\Chris\source\repos\weitereUebungsaufgaben\obj\Debug\netcoreapp3.1\weitereUebungsaufgaben.pdb
+C:\Users\Chris\source\repos\weitereUebungsaufgaben\obj\Debug\netcoreapp3.1\weitereUebungsaufgaben.genruntimeconfig.cache

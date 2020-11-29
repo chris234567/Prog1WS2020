@@ -1,0 +1,26 @@
+C:\Users\Chris\source\repos\Praktikum6\bin\Debug\netcoreapp3.1\Praktikum6.exe
+C:\Users\Chris\source\repos\Praktikum6\bin\Debug\netcoreapp3.1\Praktikum6.deps.json
+C:\Users\Chris\source\repos\Praktikum6\bin\Debug\netcoreapp3.1\Praktikum6.runtimeconfig.json
+C:\Users\Chris\source\repos\Praktikum6\bin\Debug\netcoreapp3.1\Praktikum6.runtimeconfig.dev.json
+C:\Users\Chris\source\repos\Praktikum6\bin\Debug\netcoreapp3.1\Praktikum6.dll
+C:\Users\Chris\source\repos\Praktikum6\bin\Debug\netcoreapp3.1\Praktikum6.pdb
+C:\Users\Chris\source\repos\Praktikum6\obj\Debug\netcoreapp3.1\Praktikum6.csprojAssemblyReference.cache
+C:\Users\Chris\source\repos\Praktikum6\obj\Debug\netcoreapp3.1\Praktikum6.AssemblyInfoInputs.cache
+C:\Users\Chris\source\repos\Praktikum6\obj\Debug\netcoreapp3.1\Praktikum6.AssemblyInfo.cs
+C:\Users\Chris\source\repos\Praktikum6\obj\Debug\netcoreapp3.1\Praktikum6.csproj.CoreCompileInputs.cache
+C:\Users\Chris\source\repos\Praktikum6\obj\Debug\netcoreapp3.1\Praktikum6.dll
+C:\Users\Chris\source\repos\Praktikum6\obj\Debug\netcoreapp3.1\Praktikum6.pdb
+C:\Users\Chris\source\repos\Praktikum6\obj\Debug\netcoreapp3.1\Praktikum6.genruntimeconfig.cache
+F:\Google Drive\Studium\Tutorien Begleitendes Programmieren\Programm Anderer\Praktikum6\bin\Debug\netcoreapp3.1\Praktikum6.exe
+F:\Google Drive\Studium\Tutorien Begleitendes Programmieren\Programm Anderer\Praktikum6\bin\Debug\netcoreapp3.1\Praktikum6.deps.json
+F:\Google Drive\Studium\Tutorien Begleitendes Programmieren\Programm Anderer\Praktikum6\bin\Debug\netcoreapp3.1\Praktikum6.runtimeconfig.json
+F:\Google Drive\Studium\Tutorien Begleitendes Programmieren\Programm Anderer\Praktikum6\bin\Debug\netcoreapp3.1\Praktikum6.runtimeconfig.dev.json
+F:\Google Drive\Studium\Tutorien Begleitendes Programmieren\Programm Anderer\Praktikum6\bin\Debug\netcoreapp3.1\Praktikum6.dll
+F:\Google Drive\Studium\Tutorien Begleitendes Programmieren\Programm Anderer\Praktikum6\bin\Debug\netcoreapp3.1\Praktikum6.pdb
+F:\Google Drive\Studium\Tutorien Begleitendes Programmieren\Programm Anderer\Praktikum6\obj\Debug\netcoreapp3.1\Praktikum6.csprojAssemblyReference.cache
+F:\Google Drive\Studium\Tutorien Begleitendes Programmieren\Programm Anderer\Praktikum6\obj\Debug\netcoreapp3.1\Praktikum6.AssemblyInfoInputs.cache
+F:\Google Drive\Studium\Tutorien Begleitendes Programmieren\Programm Anderer\Praktikum6\obj\Debug\netcoreapp3.1\Praktikum6.AssemblyInfo.cs
+F:\Google Drive\Studium\Tutorien Begleitendes Programmieren\Programm Anderer\Praktikum6\obj\Debug\netcoreapp3.1\Praktikum6.csproj.CoreCompileInputs.cache
+F:\Google Drive\Studium\Tutorien Begleitendes Programmieren\Programm Anderer\Praktikum6\obj\Debug\netcoreapp3.1\Praktikum6.dll
+F:\Google Drive\Studium\Tutorien Begleitendes Programmieren\Programm Anderer\Praktikum6\obj\Debug\netcoreapp3.1\Praktikum6.pdb
+F:\Google Drive\Studium\Tutorien Begleitendes Programmieren\Programm Anderer\Praktikum6\obj\Debug\netcoreapp3.1\Praktikum6.genruntimeconfig.cache

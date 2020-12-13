@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Chris\\source\\repos\\Praktikum7\\Praktikum7.csproj": {}
+    "C:\\Users\\Chris\\source\\Prog12020\\Praktikum7\\Praktikum7.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Chris\\source\\repos\\Praktikum7\\Praktikum7.csproj": {
+    "C:\\Users\\Chris\\source\\Prog12020\\Praktikum7\\Praktikum7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Chris\\source\\repos\\Praktikum7\\Praktikum7.csproj",
+        "projectUniqueName": "C:\\Users\\Chris\\source\\Prog12020\\Praktikum7\\Praktikum7.csproj",
         "projectName": "Praktikum7",
-        "projectPath": "C:\\Users\\Chris\\source\\repos\\Praktikum7\\Praktikum7.csproj",
+        "projectPath": "C:\\Users\\Chris\\source\\Prog12020\\Praktikum7\\Praktikum7.csproj",
         "packagesPath": "C:\\Users\\Chris\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Chris\\source\\repos\\Praktikum7\\obj\\",
+        "outputPath": "C:\\Users\\Chris\\source\\Prog12020\\Praktikum7\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Chris\\AppData\\Roaming\\NuGet\\NuGet.Config",

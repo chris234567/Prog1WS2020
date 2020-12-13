@@ -1,0 +1,13 @@
+C:\Users\Chris\source\Prog12020\Praktikum8\bin\Debug\netcoreapp3.1\Praktikum8.exe
+C:\Users\Chris\source\Prog12020\Praktikum8\bin\Debug\netcoreapp3.1\Praktikum8.deps.json
+C:\Users\Chris\source\Prog12020\Praktikum8\bin\Debug\netcoreapp3.1\Praktikum8.runtimeconfig.json
+C:\Users\Chris\source\Prog12020\Praktikum8\bin\Debug\netcoreapp3.1\Praktikum8.runtimeconfig.dev.json
+C:\Users\Chris\source\Prog12020\Praktikum8\bin\Debug\netcoreapp3.1\Praktikum8.dll
+C:\Users\Chris\source\Prog12020\Praktikum8\bin\Debug\netcoreapp3.1\Praktikum8.pdb
+C:\Users\Chris\source\Prog12020\Praktikum8\obj\Debug\netcoreapp3.1\Praktikum8.csprojAssemblyReference.cache
+C:\Users\Chris\source\Prog12020\Praktikum8\obj\Debug\netcoreapp3.1\Praktikum8.AssemblyInfoInputs.cache
+C:\Users\Chris\source\Prog12020\Praktikum8\obj\Debug\netcoreapp3.1\Praktikum8.AssemblyInfo.cs
+C:\Users\Chris\source\Prog12020\Praktikum8\obj\Debug\netcoreapp3.1\Praktikum8.csproj.CoreCompileInputs.cache
+C:\Users\Chris\source\Prog12020\Praktikum8\obj\Debug\netcoreapp3.1\Praktikum8.dll
+C:\Users\Chris\source\Prog12020\Praktikum8\obj\Debug\netcoreapp3.1\Praktikum8.pdb
+C:\Users\Chris\source\Prog12020\Praktikum8\obj\Debug\netcoreapp3.1\Praktikum8.genruntimeconfig.cache

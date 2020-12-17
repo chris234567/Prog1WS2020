@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Chris\\source\\repos\\UebungsaufgabenWoche07\\UebungsaufgabenWoche07.csproj": {}
+    "C:\\Users\\Chris\\source\\Prog12020\\UebungsaufgabenWoche07\\UebungsaufgabenWoche07.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Chris\\source\\repos\\UebungsaufgabenWoche07\\UebungsaufgabenWoche07.csproj": {
+    "C:\\Users\\Chris\\source\\Prog12020\\UebungsaufgabenWoche07\\UebungsaufgabenWoche07.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Chris\\source\\repos\\UebungsaufgabenWoche07\\UebungsaufgabenWoche07.csproj",
+        "projectUniqueName": "C:\\Users\\Chris\\source\\Prog12020\\UebungsaufgabenWoche07\\UebungsaufgabenWoche07.csproj",
         "projectName": "UebungsaufgabenWoche07",
-        "projectPath": "C:\\Users\\Chris\\source\\repos\\UebungsaufgabenWoche07\\UebungsaufgabenWoche07.csproj",
+        "projectPath": "C:\\Users\\Chris\\source\\Prog12020\\UebungsaufgabenWoche07\\UebungsaufgabenWoche07.csproj",
         "packagesPath": "C:\\Users\\Chris\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Chris\\source\\repos\\UebungsaufgabenWoche07\\obj\\",
+        "outputPath": "C:\\Users\\Chris\\source\\Prog12020\\UebungsaufgabenWoche07\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Chris\\AppData\\Roaming\\NuGet\\NuGet.Config",

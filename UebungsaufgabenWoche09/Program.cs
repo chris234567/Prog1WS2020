@@ -22,7 +22,7 @@ namespace UebungsaufgabenWoche09
             //PrintText(dasher.Name, dasher.Age, dasher.RedNose);
             //PrintText(rudolph.Name, rudolph.Age, rudolph.RedNose);
 
-            // Aufgabe 2
+            // Aufgabe 2, 3, 4
 
             Sled meinSchlitten = new Sled(
                 new Reindeer[] {
@@ -39,6 +39,8 @@ namespace UebungsaufgabenWoche09
             );
 
             Console.WriteLine(meinSchlitten.Reindeers);
+
+            // Aufgabe 5
 
             var mySled = Sled.ReindeerSquadronAssemble(@"C:\Users\Chris\source\Prog12020\UebungsaufgabenWoche09\myReindeers.txt");
 

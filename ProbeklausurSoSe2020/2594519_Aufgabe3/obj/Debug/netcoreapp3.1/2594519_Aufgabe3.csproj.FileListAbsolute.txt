@@ -1,0 +1,13 @@
+C:\Users\Chris\source\Prog12020\ProbeklausurSoSe2020\2594519_Aufgabe3\bin\Debug\netcoreapp3.1\2594519_Aufgabe3.exe
+C:\Users\Chris\source\Prog12020\ProbeklausurSoSe2020\2594519_Aufgabe3\bin\Debug\netcoreapp3.1\2594519_Aufgabe3.deps.json
+C:\Users\Chris\source\Prog12020\ProbeklausurSoSe2020\2594519_Aufgabe3\bin\Debug\netcoreapp3.1\2594519_Aufgabe3.runtimeconfig.json
+C:\Users\Chris\source\Prog12020\ProbeklausurSoSe2020\2594519_Aufgabe3\bin\Debug\netcoreapp3.1\2594519_Aufgabe3.runtimeconfig.dev.json
+C:\Users\Chris\source\Prog12020\ProbeklausurSoSe2020\2594519_Aufgabe3\bin\Debug\netcoreapp3.1\2594519_Aufgabe3.dll
+C:\Users\Chris\source\Prog12020\ProbeklausurSoSe2020\2594519_Aufgabe3\bin\Debug\netcoreapp3.1\2594519_Aufgabe3.pdb
+C:\Users\Chris\source\Prog12020\ProbeklausurSoSe2020\2594519_Aufgabe3\obj\Debug\netcoreapp3.1\2594519_Aufgabe3.csprojAssemblyReference.cache
+C:\Users\Chris\source\Prog12020\ProbeklausurSoSe2020\2594519_Aufgabe3\obj\Debug\netcoreapp3.1\2594519_Aufgabe3.AssemblyInfoInputs.cache
+C:\Users\Chris\source\Prog12020\ProbeklausurSoSe2020\2594519_Aufgabe3\obj\Debug\netcoreapp3.1\2594519_Aufgabe3.AssemblyInfo.cs
+C:\Users\Chris\source\Prog12020\ProbeklausurSoSe2020\2594519_Aufgabe3\obj\Debug\netcoreapp3.1\2594519_Aufgabe3.csproj.CoreCompileInputs.cache
+C:\Users\Chris\source\Prog12020\ProbeklausurSoSe2020\2594519_Aufgabe3\obj\Debug\netcoreapp3.1\2594519_Aufgabe3.dll
+C:\Users\Chris\source\Prog12020\ProbeklausurSoSe2020\2594519_Aufgabe3\obj\Debug\netcoreapp3.1\2594519_Aufgabe3.pdb
+C:\Users\Chris\source\Prog12020\ProbeklausurSoSe2020\2594519_Aufgabe3\obj\Debug\netcoreapp3.1\2594519_Aufgabe3.genruntimeconfig.cache

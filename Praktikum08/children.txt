@@ -1,0 +1,10 @@
+Aris,MostlyKind:Sandspielzeug,Bausteine,Puppen
+Anton,AlwaysKind:Spielzeugauto,Bausteine,
+Emma,Naughty:Spielekonsole,
+Mehmet,OftenKind:Bausteine,Spielesammlung,Sandspielzeug
+Esra,MostlyKind:Handy,Kinogutschein,
+Anna,OftenKind:Musikstream,Chemiebaukasten,
+Azra,MostlyKind:Elektronik-Baukasten,Computer,Handy
+Hans,Naughty:Spielzeugautos,Kinogutscheine,
+Egon,AlwaysKind:Puppen,Spielekonsole,
+Marie,MostlyKind:Handy,Spielekonsole,

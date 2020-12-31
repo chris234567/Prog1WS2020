@@ -75,5 +75,58 @@ namespace Praktikum8
         {
             return (name.ToString(), Behavior.ToString());
         }
+
+        public static string Serialize(Child child)
+        {
+            var wishesString = "";
+            var counter = 0;
+
+            foreach (var wish in child.wishes)
+            {
+                if (wish != null)
+                {
+                    wishesString += wish;
+
+                    Console.WriteLine(child.wishes.Length);
+                    Console.WriteLine(child.name);
+
+                    if (child.wishes.Length <= 1)
+                        continue;
+
+                    counter++;
+
+                    if (counter < child.wishes.Length) // add comma only for median wishes
+                        wishesString += ",";
+                }
+            }
+
+            return $"{child.name},{child.Behavior}:{wishesString}"; // for use with Deserialize() non void
+        }
+
+        public static Child Deserialize(string childString)
+        {
+            var childProperties = childString.Split(',', ':');
+
+            var name = childProperties[0];
+            var behavior = childProperties[1];
+
+            if (name == null)
+                return null;
+
+            if (behavior == null)
+                return null;
+
+            var newChild = new Child(name, (Behavior) Enum.Parse(typeof(Behavior), behavior, true));
+
+            for (int i = 2; i < childProperties.Length; i++)
+            {
+                if (childProperties.Length <= i)
+                    break;
+                    
+                newChild.AddWish(childProperties[i]);
+            }
+
+            return newChild;
+        }
     }
 }

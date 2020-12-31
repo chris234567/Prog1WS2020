@@ -1,0 +1,13 @@
+C:\Users\Chris\source\repos\ProbeKlausur18_12_20\Aufgabe1\bin\Debug\netcoreapp3.1\Aufgabe1.exe
+C:\Users\Chris\source\repos\ProbeKlausur18_12_20\Aufgabe1\bin\Debug\netcoreapp3.1\Aufgabe1.deps.json
+C:\Users\Chris\source\repos\ProbeKlausur18_12_20\Aufgabe1\bin\Debug\netcoreapp3.1\Aufgabe1.runtimeconfig.json
+C:\Users\Chris\source\repos\ProbeKlausur18_12_20\Aufgabe1\bin\Debug\netcoreapp3.1\Aufgabe1.runtimeconfig.dev.json
+C:\Users\Chris\source\repos\ProbeKlausur18_12_20\Aufgabe1\bin\Debug\netcoreapp3.1\Aufgabe1.dll
+C:\Users\Chris\source\repos\ProbeKlausur18_12_20\Aufgabe1\bin\Debug\netcoreapp3.1\Aufgabe1.pdb
+C:\Users\Chris\source\repos\ProbeKlausur18_12_20\Aufgabe1\obj\Debug\netcoreapp3.1\Aufgabe1.csprojAssemblyReference.cache
+C:\Users\Chris\source\repos\ProbeKlausur18_12_20\Aufgabe1\obj\Debug\netcoreapp3.1\Aufgabe1.AssemblyInfoInputs.cache
+C:\Users\Chris\source\repos\ProbeKlausur18_12_20\Aufgabe1\obj\Debug\netcoreapp3.1\Aufgabe1.AssemblyInfo.cs
+C:\Users\Chris\source\repos\ProbeKlausur18_12_20\Aufgabe1\obj\Debug\netcoreapp3.1\Aufgabe1.csproj.CoreCompileInputs.cache
+C:\Users\Chris\source\repos\ProbeKlausur18_12_20\Aufgabe1\obj\Debug\netcoreapp3.1\Aufgabe1.dll
+C:\Users\Chris\source\repos\ProbeKlausur18_12_20\Aufgabe1\obj\Debug\netcoreapp3.1\Aufgabe1.pdb
+C:\Users\Chris\source\repos\ProbeKlausur18_12_20\Aufgabe1\obj\Debug\netcoreapp3.1\Aufgabe1.genruntimeconfig.cache

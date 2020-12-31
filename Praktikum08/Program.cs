@@ -42,6 +42,18 @@ namespace Praktikum8
             Console.WriteLine("So oft wünschen sich Kinder ...");
             foreach (string wish in new string[] { "Handy", "Computer", "Spielekonsole", "Bausteine", "Puppen" })
                 Console.WriteLine($"... {wish}:   {liste.CountChildrenWithWish(wish)}");
+
+
+
+            var r = Child.Deserialize(Child.Serialize(k));
+
+            liste.SaveChildList(liste, @"C:\Users\Chris\source\Prog12020\Praktikum08\children.txt");
+            var newList = ChildList.ReadChildList(@"C:\Users\Chris\source\Prog12020\Praktikum08\children.txt");
+
+            Console.WriteLine($"Anzahl lieber Kinder: {newList.NumberOfKindChildren}");
+            Console.WriteLine("So oft wünschen sich Kinder ...");
+            foreach (string wish in new string[] { "Handy", "Computer", "Spielekonsole", "Bausteine", "Puppen" })
+                Console.WriteLine($"... {wish}:   {newList.CountChildrenWithWish(wish)}");
         }
     }
 }

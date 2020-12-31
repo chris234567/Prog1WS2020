@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using System.IO;
 
 namespace Praktikum8
 {
@@ -8,8 +9,6 @@ namespace Praktikum8
     {
         int numberOfChildren;
         Child[] children;
-
-        public int NumberOfChildren { get; }
 
         public ChildList(int numberOfChildren)
         {
@@ -44,7 +43,7 @@ namespace Praktikum8
             }
         }
 
-        public int CountChildrenWithWish(string wish) // HasWish() on every child in ChildList
+        public int CountChildrenWithWish(string wish) // HasWish() for every child in ChildList
         {
             int counter = 0;
 
@@ -53,6 +52,47 @@ namespace Praktikum8
                     counter++;
 
             return counter;
+        }
+
+        public void SaveChildList(ChildList childList, string path)
+        {
+            var myWriter = new StreamWriter(path, true);
+
+            for (int child = 0; child < children.Length; child++)
+            {
+                myWriter.WriteLine(Child.Serialize(childList.children[child])); // writes one line for every child in childList
+            }
+
+            myWriter.Close();
+        }
+
+        public static ChildList ReadChildList(string path)
+        {
+            var myReader = new StreamReader(path);
+
+            var child = myReader.ReadLine();
+            var lines = 0;
+
+            while (child != null) // count lines
+            {
+                lines++;
+                child = myReader.ReadLine();
+            }
+
+            var childList = new ChildList(lines);
+
+            myReader = new StreamReader(path); // reopen file
+            child = myReader.ReadLine();
+
+            while (child != null)
+            {
+                childList.AddChild(Child.Deserialize(child));
+                
+                child = myReader.ReadLine();
+            }
+            myReader.Close();
+
+            return childList;
         }
     }
 }

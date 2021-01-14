@@ -1,0 +1,13 @@
+C:\Users\Chris\source\Prog12020\BigNumber\bin\Debug\netcoreapp3.1\BigNumber.exe
+C:\Users\Chris\source\Prog12020\BigNumber\bin\Debug\netcoreapp3.1\BigNumber.deps.json
+C:\Users\Chris\source\Prog12020\BigNumber\bin\Debug\netcoreapp3.1\BigNumber.runtimeconfig.json
+C:\Users\Chris\source\Prog12020\BigNumber\bin\Debug\netcoreapp3.1\BigNumber.runtimeconfig.dev.json
+C:\Users\Chris\source\Prog12020\BigNumber\bin\Debug\netcoreapp3.1\BigNumber.dll
+C:\Users\Chris\source\Prog12020\BigNumber\bin\Debug\netcoreapp3.1\BigNumber.pdb
+C:\Users\Chris\source\Prog12020\BigNumber\obj\Debug\netcoreapp3.1\BigNumber.csprojAssemblyReference.cache
+C:\Users\Chris\source\Prog12020\BigNumber\obj\Debug\netcoreapp3.1\BigNumber.AssemblyInfoInputs.cache
+C:\Users\Chris\source\Prog12020\BigNumber\obj\Debug\netcoreapp3.1\BigNumber.AssemblyInfo.cs
+C:\Users\Chris\source\Prog12020\BigNumber\obj\Debug\netcoreapp3.1\BigNumber.csproj.CoreCompileInputs.cache
+C:\Users\Chris\source\Prog12020\BigNumber\obj\Debug\netcoreapp3.1\BigNumber.dll
+C:\Users\Chris\source\Prog12020\BigNumber\obj\Debug\netcoreapp3.1\BigNumber.pdb
+C:\Users\Chris\source\Prog12020\BigNumber\obj\Debug\netcoreapp3.1\BigNumber.genruntimeconfig.cache

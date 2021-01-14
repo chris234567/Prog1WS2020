@@ -1,0 +1,13 @@
+C:\Users\Chris\source\repos\Klausur_WiSe19_20\bin\Debug\netcoreapp3.1\Klausur_WiSe19_20.exe
+C:\Users\Chris\source\repos\Klausur_WiSe19_20\bin\Debug\netcoreapp3.1\Klausur_WiSe19_20.deps.json
+C:\Users\Chris\source\repos\Klausur_WiSe19_20\bin\Debug\netcoreapp3.1\Klausur_WiSe19_20.runtimeconfig.json
+C:\Users\Chris\source\repos\Klausur_WiSe19_20\bin\Debug\netcoreapp3.1\Klausur_WiSe19_20.runtimeconfig.dev.json
+C:\Users\Chris\source\repos\Klausur_WiSe19_20\bin\Debug\netcoreapp3.1\Klausur_WiSe19_20.dll
+C:\Users\Chris\source\repos\Klausur_WiSe19_20\bin\Debug\netcoreapp3.1\Klausur_WiSe19_20.pdb
+C:\Users\Chris\source\repos\Klausur_WiSe19_20\obj\Debug\netcoreapp3.1\Klausur_WiSe19_20.csprojAssemblyReference.cache
+C:\Users\Chris\source\repos\Klausur_WiSe19_20\obj\Debug\netcoreapp3.1\Klausur_WiSe19_20.AssemblyInfoInputs.cache
+C:\Users\Chris\source\repos\Klausur_WiSe19_20\obj\Debug\netcoreapp3.1\Klausur_WiSe19_20.AssemblyInfo.cs
+C:\Users\Chris\source\repos\Klausur_WiSe19_20\obj\Debug\netcoreapp3.1\Klausur_WiSe19_20.csproj.CoreCompileInputs.cache
+C:\Users\Chris\source\repos\Klausur_WiSe19_20\obj\Debug\netcoreapp3.1\Klausur_WiSe19_20.dll
+C:\Users\Chris\source\repos\Klausur_WiSe19_20\obj\Debug\netcoreapp3.1\Klausur_WiSe19_20.pdb
+C:\Users\Chris\source\repos\Klausur_WiSe19_20\obj\Debug\netcoreapp3.1\Klausur_WiSe19_20.genruntimeconfig.cache

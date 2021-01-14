@@ -1,0 +1,86 @@
+[Fri Jul 17 06:02:13.968359 2020] [mpm_prefork:notice] [pid 968] AH00163: Apache/2.4.18 (Ubuntu) OpenSSL/1.0.2g configured -- resuming normal operations
+[Fri Jul 17 06:03:11.523664 2020] [php7:warn] [pid 968] [client 192.168.253.190:1239] PHP Warning:  session_destroy(): Session callback expects true/false return value in /var/www/OsTicket/upload/scp/logout.php on line 30
+[Fri Jul 17 06:03:23.181971 2020] [negotiation:error] [pid 968] [client 192.168.169.208:50811] AH00687: Negotiation: discovered file(s) matching request: /var/www/OsTicket/upload/tickets (None could be negotiated)
+[Fri Jul 17 06:05:41.710846 2020] [negotiation:error] [pid 10426] [client 192.168.169.208:61351] AH00687: Negotiation: discovered file(s) matching request: /var/www/OsTicket/upload/tickets (None could be negotiated)
+[Fri Jul 17 06:06:13.968359 2020] [mpm_prefork:notice] [pid 9802] AH00163: Apache/2.4.18 (Ubuntu) OpenSSL/1.0.2g configured -- resuming normal operations
+[Fri Jul 17 06:07:13.968381 2020] [core:notice] [pid 9802] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Jul 17 06:08:01.660671 2020] [mpm_prefork:notice] [pid 10426] AH00171: Graceful restart requested, doing restart
+[Fri Jul 17 06:08:01.705016 2020] [mpm_prefork:notice] [pid 10426] AH00163: Apache/2.4.18 (Ubuntu) OpenSSL/1.0.2g configured -- resuming normal operations
+[Fri Jul 17 06:11:34.103319 2020] [negotiation:error] [pid 968] [client 192.168.169.208:61348] AH00687: Negotiation: discovered file(s) matching request: /var/www/OsTicket/upload/tickets (None could be negotiated)
+[Fri Jul 17 06:12:13.968359 2020] [mpm_prefork:notice] [pid 968] AH00163: Apache/2.4.18 (Ubuntu) OpenSSL/1.0.2g configured -- resuming normal operations
+[Fri Jul 17 06:12:13.968381 2020] [core:notice] [pid 968] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Jul 17 06:13:11.523706 2020] [php7:warn] [pid 9802] [client 192.168.253.190:1239] PHP Warning:  session_destroy(): Session object destruction failed in /var/www/OsTicket/upload/scp/logout.php on line 30
+[Fri Jul 17 06:45:23.181971 2020] [negotiation:error] [pid 9802] [client 192.168.169.208:50811] AH00687: Negotiation: discovered file(s) matching request: /var/www/OsTicket/upload/Graceful
+[Fri Jul 17 06:46:35.220953 2020] [negotiation:error] [pid 968] [client 192.168.169.208:61348] AH00687: Negotiation: discovered file(s) matching request: /var/www/OsTicket/upload/tickets (None could be negotiated)
+[Fri Jul 17 06:47:10.751496 2020] [mpm_prefork:notice] [pid 9802] AH00163: Apache/2.4.18 (Ubuntu) OpenSSL/1.0.2g configured -- resuming normal operations
+[Fri Jul 17 06:47:10.050826 2020] [core:notice] [pid 9802] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Jul 17 06:48:17.256243 2020] [mpm_prefork:notice] [pid 9802] AH00171: Graceful restart requested, doing restart
+[Fri Jul 17 06:48:46.040836 2020] [negotiation:error] [pid 9802] [client 192.168.169.208:50826] AH00687: Negotiation: discovered file(s) matching request: /var/www/OsTicket/upload/tickets (None could be negotiated)
+[Fri Jul 17 06:49:30.909587 2020] [negotiation:error] [pid 9802] [client 192.168.169.208:50811] AH00687: Negotiation: discovered file(s) matching request: /var/www/OsTicket/upload/tickets (None could be negotiated)
+[Fri Jul 17 06:49:41.710846 2020] [negotiation:error] [pid 968] [client 192.168.169.208:61351] AH00687: Negotiation: discovered file(s) matching request: /var/www/OsTicket/upload/tickets (None could be negotiated)
+[Fri Jul 17 06:50:28.107328 2020] [negotiation:error] [pid 10426] [client 192.168.169.208:50826] AH00687: Negotiation: discovered file(s) matching request: /var/www/OsTicket/upload/tickets (None could be negotiated)
+[Fri Jul 17 07:46:10.751496 2020] [mpm_prefork:notice] [pid 10426] AH00163: Apache/2.4.18 (Ubuntu) OpenSSL/1.0.2g configured -- resuming normal operations
+[Fri Jul 17 07:46:10.050826 2020] [core:notice] [pid 10426] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Jul 17 07:46:17.256243 2020] [mpm_prefork:notice] [pid 10426] AH00171: Graceful restart requested, doing restart
+[Fri Jul 17 07:48:01.660671 2020] [mpm_prefork:notice] [pid 968] AH00171: Graceful restart failed
+[Fri Jul 17 07:48:17.256243 2020] [mpm_prefork:notice] [pid 10426] AH00171: Graceful restart requested, doing restart
+[Fri Jul 17 07:49:46.040836 2020] [negotiation:error] [pid 10426] [client 192.168.169.208:50811] AH00687: Negotiation: discovered file(s) matching request: /var/www/OsTicket/upload/tickets (None could be negotiated)
+[Fri Jul 17 07:53:08.229203 2020] [mpm_prefork:notice] [pid 968] AH00171: Graceful restart requested, doing restart
+[Fri Jul 17 07:53:08.289780 2020] [mpm_prefork:notice] [pid 968] AH00163: Apache/2.4.18 (Ubuntu) OpenSSL/1.0.2g configured -- resuming normal operations
+[Fri Jul 17 07:53:28.107328 2020] [negotiation:error] [pid 9802] [client 192.168.169.208:61351] AH00687: Negotiation: discovered file(s) matching request: /var/www/OsTicket/upload/tickets (None could be negotiated)
+[Fri Jul 17 07:54:10.751496 2020] [mpm_prefork:notice] [pid 9802] AH00163: Apache/2.4.18 (Ubuntu) OpenSSL/1.0.2g configured -- resuming normal operations
+[Fri Jul 17 07:55:08.289790 2020] [core:notice] [pid 968] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Jul 17 07:55:13.968381 2020] [core:notice] [pid 10426] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Jul 17 07:56:11.523664 2020] [php7:warn] [pid 10426] [client 192.168.253.190:1239] PHP Warning:  session_destroy(): Session callback expects true/false return value in /var/www/OsTicket/upload/scp/logout.php on line 30
+[Fri Jul 17 07:57:10.710109 2020] [mpm_prefork:notice] [pid 968] AH00171: Graceful restart requested, doing restart
+[Fri Jul 17 07:57:10.050826 2020] [core:notice] [pid 968] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Jul 17 07:57:17.314151 2020] [core:notice] [pid 968] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Jul 17 07:57:36.242414 2020] [negotiation:error] [pid 968] [client 192.168.169.208:50826] AH50826: Negotiation: discovered file(s) matching request: /var/www/OsTicket/upload/tickets (None could be negotiated)
+[Fri Jul 17 07:57:36.523044 2020] [negotiation:error] [pid 968] [client 192.168.169.208:50811] AH00687: Negotiation: discovered file(s) matching request: /var/www/OsTicket/upload/tickets (None could be negotiated)
+[Fri Jul 17 07:58:13.968381 2020] [core:notice] [pid 9802] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Jul 17 07:59:35.220953 2020] [negotiation:error] [pid 9802] [client 192.168.169.208:50811] AH00968: Negotiation: discovered file(s) matching request: /var/www/OsTicket/upload/tickets (None could be negotiated)
+[Fri Jul 17 07:59:40.511529 2020] [negotiation:error] [pid 9802] [client 192.168.169.208:61351] AH00687: Negotiation: discovered file(s) matching request: /var/www/OsTicket/upload/tickets (None could be negotiated)
+[Fri Jul 17 08:07:10.050826 2020] [core:notice] [pid 10426] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Jul 17 08:07:17.256243 2020] [mpm_prefork:notice] [pid 10426] AH00171: Graceful restart requested, doing restart
+[Fri Jul 17 08:08:17.314138 2020] [mpm_prefork:notice] [pid 10426] AH00163: Apache/2.4.18 (Ubuntu) OpenSSL/1.0.2g configured -- resuming normal operations
+[Fri Jul 17 08:20:17.314151 2020] [core:notice] [pid 10426] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Jul 17 08:27:36.242414 2020] [negotiation:error] [pid 10426] [client 192.168.169.208:50826] AH00687: Negotiation: discovered file(s) matching request: /var/www/OsTicket/upload/tickets (None could be negotiated)
+[Fri Jul 17 08:27:56.684925 2020] [negotiation:error] [pid 968] [client 192.168.169.208:61351] AH00687: Negotiation: discovered file(s) matching request: /var/www/OsTicket/upload/Graceful
+[Fri Jul 17 08:36:10.751496 2020] [mpm_prefork:notice] [pid 968] AH00163: Apache/2.4.18 (Ubuntu) OpenSSL/1.0.2g configured -- resuming normal operations
+[Fri Jul 17 08:36:10.050826 2020] [core:notice] [pid 968] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Jul 17 08:01:46.040836 2020] [negotiation:error] [pid 968] [client 192.168.169.208:50755] AH00687: Negotiation: discovered file(s) matching request: /var/www/OsTicket/upload/tickets (None could be negotiated)
+[Fri Jul 17 08:25:13.968381 2020] [core:notice] [pid 10426] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Jul 17 08:26:17.314151 2020] [core:notice] [pid 9802] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Jul 17 08:27:36.242414 2020] [negotiation:error] [pid 9802] [client 192.168.169.208:50826] AH00968: Negotiation: discovered file(s) matching request: /var/www/OsTicket/upload/tickets (None could be negotiated)
+[Fri Jul 17 08:27:36.523044 2020] [negotiation:error] [pid 9802] [client 192.168.169.208:50811] AH00687: Negotiation: discovered file(s) matching request: /var/www/OsTicket/upload/tickets (None could be negotiated)
+[Fri Jul 17 08:25:35.220953 2020] [negotiation:error] [pid 10426] [client 192.168.169.208:61348] AH50826: Negotiation: discovered file(s) matching request: /var/www/OsTicket/upload/tickets (None could be negotiated)
+[Fri Jul 17 08:25:40.511529 2020] [negotiation:error] [pid 10426] [client 192.168.169.208:61351] AH00687: Negotiation: discovered file(s) matching request: /var/www/OsTicket/upload/tickets (None could be negotiated)
+[Fri Jul 17 08:36:10.751496 2020] [mpm_prefork:notice] [pid 10426] AH00163: Apache/2.4.18 (Ubuntu) OpenSSL/1.0.2g configured -- resuming normal operations
+[Fri Jul 17 08:36:10.050826 2020] [core:notice] [pid 10426] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Jul 17 08:42:30.909587 2020] [negotiation:error] [pid 10426] [client 192.168.169.208:50810] AH50826: Negotiation: discovered file(s) matching request: /var/www/OsTicket/upload/tickets (None could be negotiated)
+[Fri Jul 17 08:26:08.229203 2020] [mpm_prefork:notice] [pid 10426] AH00171: Graceful restart failed
+[Fri Jul 17 08:26:08.289780 2020] [mpm_prefork:notice] [pid 10426] AH00163: Apache/2.4.18 (Ubuntu) OpenSSL/1.0.2g configured -- resuming normal operations
+[Fri Jul 17 08:26:08.289790 2020] [core:notice] [pid 10426] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Jul 17 09:42:38.579338 2020] [negotiation:error] [pid 10426] [client 192.168.169.208:50811] AH00687: Negotiation: discovered file(s) matching request: /var/www/OsTicket/upload/tickets (None could be negotiated)
+[Fri Jul 17 09:26:10.050826 2020] [core:notice] [pid 9802] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Jul 17 09:26:17.256243 2020] [mpm_prefork:notice] [pid 9802] AH00171: Graceful restart requested, doing restart
+[Fri Jul 17 09:26:17.314138 2020] [mpm_prefork:notice] [pid 9802] AH00163: Apache/2.4.18 (Ubuntu) OpenSSL/1.0.2g configured -- resuming normal operations
+[Fri Jul 17 09:42:38.579338 2020] [negotiation:error] [pid 968] [client 192.168.169.968:50811] AH00687: Negotiation: discovered file(s) matching request: /var/www/OsTicket/upload/tickets (None could be negotiated)
+[Fri Jul 17 09:25:41.710846 2020] [negotiation:error] [pid 9802] [client 192.168.169.208:61351] AH00687: Negotiation: discovered file(s) matching request: /var/www/OsTicket/upload/tickets (None could be negotiated)
+[Fri Jul 17 09:26:01.660671 2020] [mpm_prefork:notice] [pid 9802] AH00171: Graceful restart requested, doing restart
+[Fri Jul 17 09:26:01.705016 2020] [mpm_prefork:notice] [pid 9802] AH00163: Apache/2.4.18 (Ubuntu) OpenSSL/1.0.2g configured -- resuming normal operations
+[Fri Jul 17 09:45:27.769708 2020] [negotiation:error] [pid 968] [client 192.168.169.208:50826] AH00687: Negotiation: discovered file(s) matching request: /var/www/OsTicket/upload/tickets (None could be negotiated)
+[Fri Jul 17 09:46:10.751496 2020] [mpm_prefork:notice] [pid 968] AH00163: Apache/2.4.18 (Ubuntu) OpenSSL/1.0.2g configured -- resuming normal operations
+[Fri Jul 17 09:55:32.603962 2020] [negotiation:error] [pid 10426] [client 192.168.169.208:61351] AH00687: Negotiation: discovered file(s) matching request: /var/www/OsTicket/upload/tickets (None could be negotiated)
+[Fri Jul 17 09:55:33.036795 2020] [negotiation:error] [pid 10426] [client 192.168.169.208:50826] AH00968: Negotiation: discovered file(s) matching request: /var/www/OsTicket/upload/tickets (None could be negotiated)
+[Fri Jul 17 09:46:10.050826 2020] [core:notice] [pid 968] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Jul 17 09:46:17.256243 2020] [mpm_prefork:notice] [pid 968] AH00171: Graceful restart requested, doing restart
+[Fri Jul 17 09:55:32.603962 2020] [negotiation:error] [pid 968] [client 192.168.169.208:50826] AH00687: Negotiation: discovered file(s) matching request: /var/www/OsTicket/upload/tickets (None could be negotiated)
+[Fri Jul 17 09:46:17.256243 2020] [mpm_prefork:notice] [pid 9802] AH00171: Graceful restart requested, doing restart
+[Fri Jul 17 09:55:32.603962 2020] [negotiation:error] [pid 9802] [client 192.168.169.208:61351] AH00687: Negotiation: discovered file(s) matching request: /var/www/OsTicket/upload/tickets (None could be negotiated)
+[Fri Jul 17 09:26:10.710109 2020] [mpm_prefork:notice] [pid 9802] AH00171: Graceful restart requested, doing restart
+[Fri Jul 17 09:26:10.751496 2020] [mpm_prefork:notice] [pid 9802] AH00163: Apache/2.4.18 (Ubuntu) OpenSSL/1.0.2g configured -- resuming normal operations
+[Fri Jul 17 09:55:33.036795 2020] [negotiation:error] [pid 9802] [client 192.168.169.208:50826] AH00687: Negotiation: discovered file(s) matching request: /var/www/OsTicket/upload/tickets (None could be negotiated)
+[Fri Jul 17 09:55:33.286656 2020] [negotiation:error] [pid 968] [client 192.168.169.208:50826] AH00968: Negotiation: discovered file(s) matching request: /var/www/OsTicket/upload/tickets (None could be negotiated)
+
+

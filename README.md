@@ -4,4 +4,6 @@ This is a personal Repository to keep track of all the programming assignments o
 
 ## Structure
 
-There is one assignment for every week from 13/10/ to 14/12/2020.
+There is one assignment for every week from 13/10/ to 14/12/2020. (PraktikumX)
++
+Some exams for practice (Klausur_SsSsYY)

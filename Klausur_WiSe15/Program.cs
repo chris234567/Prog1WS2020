@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 
 namespace Klausur_WiSe15
 {
@@ -64,6 +65,33 @@ namespace Klausur_WiSe15
             }
         }
 
+        public static double KundenUmsatz(int id)
+        {
+            var myReader = new StreamReader(@"irgenteinPfad");
+            var line = myReader.ReadLine();
 
+            int aufenthalt = 0;
+
+            while (line != null)
+            {
+                var currLine = line.Split('\t');
+                
+                if(Convert.ToInt32(currLine[0]) == id && currLine.Length == 4) // every line without exit time gets skipped
+                {
+                    int beginn = Convert.ToInt32(currLine[2].Split(':')[0]) * 60 + Convert.ToInt32(currLine[2].Split(':')[1]);
+                    int ende = Convert.ToInt32(currLine[3].Split(':')[0]) * 60 + Convert.ToInt32(currLine[3].Split(':')[1]);
+
+                    aufenthalt += ende - beginn;
+                }
+                line = myReader.ReadLine();
+            }
+            myReader.Close();
+            double betrag = (aufenthalt / 15) * 0.40;
+
+            if (aufenthalt % 15 != 0)
+                betrag += 0.40;
+
+            return betrag;
+        }
     }
 }

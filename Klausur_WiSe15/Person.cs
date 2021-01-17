@@ -28,7 +28,7 @@ namespace Klausur_WiSe15
             set
             {
                 personalnummer = value >= NaechstPersNr ? value : throw new ArgumentOutOfRangeException();
-                numberOfInstances = value;
+                numberOfInstances = value; // update number of instances
             }
         }
 

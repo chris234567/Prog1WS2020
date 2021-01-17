@@ -1,0 +1,4 @@
+3
+Jean‐Luc Picard;12345;100,75
+Luke Skywalker;76540;333,45
+Spock;223344;1024,77

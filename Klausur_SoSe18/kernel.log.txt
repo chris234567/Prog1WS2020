@@ -1,0 +1,11 @@
+[    0.434565] pci 0000:00:00.0: Limiting direct PCI/PCI transfers
+[    0.434597] pci 0000:00:01.0: Activating ISA DMA hang workarounds
+[    0.434630] pci 0000:00:02.0: Video device with shadowed ROM
+[    0.437590] PCI: CLS 0 bytes, default 64
+[    0.437636] Unpacking initramfs...
+[    1.222605] Freeing initrd memory: 9128K
+[    1.222618] PCI‐DMA: Using software bounce buffering for IO (SWIOTLB)
+[    1.222762] hw unit of domain pp0‐core 2^‐0 Joules
+[    1.222763] hw unit of domain package 2^‐0 Joules
+[    1.222765] hw unit of domain pp1‐gpu 2^‐0 Joules
+[    1.222807] Scanning for low memory corruption every 60 seconds

@@ -9,11 +9,11 @@ namespace Klausur_WiSe17_18
         {
             // 1
 
-            //var myArray = new double[,] { { 0, 1, 2, 3, 4}, { 10, 11, 12, 13, 14}, { 20, 21, 22, 23, 24}, { 30, 31, 32, 33, 34} };
+            var myArray = new double[,] { { 0, 1, 2, 3, 4 }, { 10, 11, 12, 13, 14 }, { 20, 21, 22, 23, 24 }, { 30, 31, 32, 33, 34 } };
 
-            //Console.WriteLine(MatrixSumme(myArray));
+            Console.WriteLine(MatrixSumme(myArray));
 
-            //var array = new Medium[] { new Medium("eins", Medientyp.DVD), new Medium("zwei") };
+            var array = new Medium[] { new Medium("eins", Medientyp.DVD), new Medium("zwei") };
 
             // 2
 
@@ -26,9 +26,9 @@ namespace Klausur_WiSe17_18
 
             // 3
 
-            string[] bestellung = {"S2", "V1", "H6", "V1", "H4", "H6", "D2"};
-            
-            Dateiverarbeitung.Rechnung(bestellung);
+            //string[] bestellung = {"S2", "V1", "H6", "V1", "H4", "H6", "D2"};
+
+            //Dateiverarbeitung.Rechnung(bestellung);
         }
 
         public static double MatrixSumme(double[,] array2D)

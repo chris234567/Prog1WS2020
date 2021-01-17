@@ -16,17 +16,19 @@ namespace Klausur_WiSe15
         string name;
         double gehalt;
         MTyp mtyp;
-        int personalnummer = 0;
+        public int personalnummer;
+        static int numberOfInstances = 0;
 
         public int NaechstPersNr
         {
             get
             {
-                return personalnummer + 1;
+                return numberOfInstances + 1;
             }
             set
             {
                 personalnummer = value >= NaechstPersNr ? value : throw new ArgumentOutOfRangeException();
+                numberOfInstances = value;
             }
         }
 
@@ -35,7 +37,7 @@ namespace Klausur_WiSe15
             this.name = name;
             this.gehalt = gehalt;
             this.mtyp = mtyp;
-            this.personalnummer = personalnummer != -1 ? personalnummer : NaechstPersNr;
+            NaechstPersNr = personalnummer != -1 ? personalnummer : NaechstPersNr;
         }
 
         public static double Gehaltvolumen(Person[] personen, MTyp mtyp)

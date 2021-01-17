@@ -18,9 +18,16 @@ namespace Klausur_WiSe15
 
             var personen = new Person[2];
             personen[0] = new Person("erster", 243.234, MTyp.Abteilungsleiter, 2131);
-            personen[1] = new Person("zweiter", 4564.1, MTyp.Angestellter);
+            personen[1] = new Person("zweiter", 4564.1, MTyp.Angestellter, 4);
 
             Console.WriteLine(Person.Gehaltvolumen(personen, MTyp.Abteilungsleiter));
+
+            Console.WriteLine(personen[0].personalnummer);
+            Console.WriteLine(personen[1].personalnummer);
+            var p1 = new Person("dritter", 451234.1, MTyp.Angestellter);
+            Console.WriteLine(p1.personalnummer);
+
+
         }
 
         public static string RemoveBlanks(string s)
